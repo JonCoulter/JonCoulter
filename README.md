@@ -15,11 +15,11 @@ connecting AI agents to data sources and tools for end-to-end workflows. I've
 also worked at **BNY** and **Carnegie Mellon**, building full-stack platforms
 and tools that help people make better use of their data.
 
-Outside of software, I mentor, climb, and look for good coffee.
+Outside of software, I enjoy looking for good coffee.
 
 ## Professional Experience
 
-| Company | Role | Team / Work | Location | Dates |
+| Company | Role | Team | Location | Dates |
 | --- | --- | --- | --- | --- |
 | **Microsoft** | Software Engineer Intern | Azure Data Manager for Energy | Redmond, WA | May '26 — Aug '26 |
 | **BNY Mellon** | Software Engineer Intern | Payment Enablement Platform | Pittsburgh, PA | Jun '25 — Aug '25 |
