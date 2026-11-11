@@ -19,8 +19,8 @@ Outside of software, I mentor, climb, and look for good coffee.
 
 ## Professional Experience
 
-| Dates | Company | Role | Location |
-| --- | --- | --- | --- |
-| May 2026 — Aug 2026 | **Microsoft** | Software Engineer Intern · Azure Data Manager for Energy | Redmond, WA |
-| Jun 2025 — Aug 2025 | **BNY Mellon** | Software Engineer Intern | Pittsburgh, PA |
-| May 2024 — Dec 2024 | **Carnegie Mellon University** | Software Engineer Intern | Pittsburgh, PA |
+| Dates | Company | Role | Location | Team / Work |
+| --- | --- | --- | --- | --- |
+| May '26 — Aug '26 | **Microsoft** | Software Engineer Intern | Redmond, WA | Azure Data Manager for Energy (ADME) |
+| Jun '25 — Aug '25 | **BNY Mellon** | Software Engineer Intern | Pittsburgh, PA | Payment Enablement Platform |
+| May '24 — Dec '24 | **Carnegie Mellon University** | Software Engineer Intern | Pittsburgh, PA | AI-Moderated Chatroom |
