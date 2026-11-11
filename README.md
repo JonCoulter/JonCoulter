@@ -1,4 +1,6 @@
-# Jonathan Coulter
+<p align="center">
+  <img src="https://readmes.pages.dev/text/say/Hello%2C%20I%27m%20Jonathan%21/typing/size-56" alt="Hello, I'm Jonathan!" />
+</p>
 
 Software engineer and CS student at the University of Pittsburgh, interested
 in building useful products at the intersection of software, data, and AI.
